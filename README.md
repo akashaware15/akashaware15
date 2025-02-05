@@ -39,6 +39,6 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
 - 📧Email: [Sujaykhond](akashaware90gmail.com)
-- 🔗LinkedIn: [@Sujay Khond](https://www.linkedin.com/in/akash-aware-2819ba281/)
+- 🔗LinkedIn: [Akash Aware](https://www.linkedin.com/in/akash-aware-2819ba281/)
 
 Don't hesitate to say hi or ask me anything! 😊
