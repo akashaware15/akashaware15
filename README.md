@@ -1,22 +1,44 @@
-<h1 align="center">Hello 👋, I'm Akash Aware</h1>
-<h3 align="center">Welcome to my GitHub profile. I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences 🚀. I'm a B.E CS Student At Savitribai Phule Pune University.</h3>
+# 👋 Hello, I'm Akash Aware .
 
-- 🌱 I’m currently learning **Full stack Java Developement**
+Welcome to my GitHub profile. 
+ I'm a passionate 👨🏻‍💻**frontend developer** with a knack for creating beautiful and functional web experiences 🚀.
+ I'm a **B.E CS** Student At **Savitribai Phule Pune University.**
 
-- 💬 Ask me about [HTML, CSS, JavaScript,](HTML, CSS, JavaScript,)
+## 🛠️ Technologies & Tools
 
-- 📫 How to reach me **akashaware90@gmail.com**
+Here are some of the technologies and tools I frequently work with: 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash aware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash aware" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_aware_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_aware_15" height="30" width="40" /></a>
-</p>
+-  **Languages:** </> HTML,📲CSS,🌐JavaScript.
+-  **Frameworks/Libraries:** ⚛️React.js ,Tailwind CSS
+-  **Styling:** Tailwind CSS, CSS-in-JS.
+-  **Version Control:** Git.
+-  **Build Tools:** 🆚VS Code.
+-  **Testing:** Jest, ⚛️React Testing Library.
+-  **Other:** npm, yarn.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📚 Projects
 
+Here are some notable projects I've worked on:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+1. [Currency Converter]() 
 
+Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
+
+## 🌱 Currently Learning
+
+I'm always eager to learn new things and improve my skills. Currently, I'm focusing on:
+
+- Advanced CSS techniques
+- Advanced Javascript Concept
+- Advanced React Development 
+- Performance optimization in web development
+- 
+
+## 📫 Let's Connect
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
+
+- 📧Email: [Sujaykhond](akashaware90gmail.com)
+- 🔗LinkedIn: [@Sujay Khond](https://www.linkedin.com/in/akash-aware-2819ba281/)
+
+Don't hesitate to say hi or ask me anything! 😊
