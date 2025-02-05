@@ -21,9 +21,10 @@ Here are some of the technologies and tools I frequently work with:
 Here are some notable projects I've worked on:
 
 1. [Currency-Converter]()
-2. [Amazon-clone]()
+2. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
+3. [Restaurant]
 
-Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
+Feel free to explore more of my projects on [my GitHub repositories](https://github.com/akashaware15?tab=repositories).
 
 ## 🌱 Currently Learning
 
@@ -39,7 +40,7 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
-- 📧Email: [Akash Aware](akashaware90gmail.com)
-- 🔗LinkedIn: [Akash Aware](https://www.linkedin.com/in/akash-aware-2819ba281/)
+- 📧Email:     [Akash Aware](akashaware90gmail.com)
+- 🔗LinkedIn:  [Akash Aware](https://www.linkedin.com/in/akash-aware-2819ba281/)
 - 🔗Instagram: [akash_aware_15](https://www.instagram.com/akash_aware_15/)
 
