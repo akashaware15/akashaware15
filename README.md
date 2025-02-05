@@ -20,7 +20,8 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some notable projects I've worked on:
 
-1. [Currency Converter]() 
+1. [Currency-Converter]()
+2. [Amazon-clone]()
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
 
@@ -32,13 +33,13 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 - Advanced Javascript Concept
 - Advanced React Development 
 - Performance optimization in web development
-- 
+- Java FullStack Development
 
 ## 📫 Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
-- 📧Email: [Sujaykhond](akashaware90gmail.com)
+- 📧Email: [Akash Aware](akashaware90gmail.com)
 - 🔗LinkedIn: [Akash Aware](https://www.linkedin.com/in/akash-aware-2819ba281/)
+- 🔗Instagram: [akash_aware_15](https://www.instagram.com/akash_aware_15/)
 
-Don't hesitate to say hi or ask me anything! 😊
