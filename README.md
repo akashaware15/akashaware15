@@ -11,18 +11,16 @@ Here are some of the technologies and tools I frequently work with:
 -  **Languages:** </> HTML,📲CSS,🌐JavaScript.
 -  **Frameworks/Libraries:** ⚛️React.js ,Tailwind CSS
 -  **Styling:** Tailwind CSS, CSS-in-JS.
--  **Version Control:** Git.
+-  **Version Control:** Git, Github.
 -  **Build Tools:** 🆚VS Code.
 -  **Testing:** Jest, ⚛️React Testing Library.
--  **Other:** npm, yarn.
 
 ## 📚 Projects
 
 Here are some notable projects I've worked on:
 
-1. [Currency-Converter]()
-2. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
-3. [Restaurant]
+1. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
+2. [Restaurant] ()
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/akashaware15?tab=repositories).
 
@@ -35,6 +33,7 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 - Advanced React Development 
 - Performance optimization in web development
 - Java FullStack Development
+- React native
 
 ## 📫 Let's Connect
 
