@@ -22,6 +22,7 @@ Here are some notable projects I've worked on:
 1. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
 2. [Restaurant](http://127.0.0.1:5500/index.html)
 3. [Rock-Paper-Scissors-Game](http://127.0.0.1:5500/)
+4. [calculator](http://127.0.0.1:5500/index.html)
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/akashaware15?tab=repositories).
 
