@@ -20,7 +20,7 @@ Here are some of the technologies and tools I frequently work with:
 Here are some notable projects I've worked on:
 
 1. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
-2. [Restaurant] (http://127.0.0.1:5500/index.html)
+2. [Restaurant](http://127.0.0.1:5500/index.html)
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/akashaware15?tab=repositories).
 
