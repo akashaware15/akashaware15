@@ -19,7 +19,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some notable projects I've worked on:
 
-1. [Amazon-clone]()
+1. [Amazon-clone](https://akashaware15.github.io/Amazon-Clone/)
 2. [Restaurant]()
 3. [Rock-Paper-Scissors-Game]( https://akashaware15.github.io/Rock-Paper-Scissors-Game/)
 4. [calculator](https://akashaware15.github.io/Calculator/)
