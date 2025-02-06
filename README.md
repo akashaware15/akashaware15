@@ -19,10 +19,10 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some notable projects I've worked on:
 
-1. [Amazon-clone](http://127.0.0.1:5500/Amazon-Clone/index.html)
-2. [Restaurant](http://127.0.0.1:5500/index.html)
-3. [Rock-Paper-Scissors-Game](http://127.0.0.1:5500/)
-4. [calculator](http://127.0.0.1:5500/index.html)
+1. [Amazon-clone](https://akashaware15.github.io/Amazon-Clone/)
+2. [Restaurant]()
+3. [Rock-Paper-Scissors-Game](https://akashaware15.github.io/Rock-Paper-Scissors-Game/)
+4. [calculator]()
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/akashaware15?tab=repositories).
 
