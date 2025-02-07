@@ -41,7 +41,7 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
-- 📧Email:     (akashaware90gmail.com)
+- 📧Email:    [Akash Aware](akashaware90gmail.com)
 - 🔗LinkedIn:  [Akash Aware](https://www.linkedin.com/in/akash-aware-2819ba281/)
 - 🔗Instagram: [akash_aware_15](https://www.instagram.com/akash_aware_15/)
 
